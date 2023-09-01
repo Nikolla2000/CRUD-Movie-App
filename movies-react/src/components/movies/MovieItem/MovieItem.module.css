@@ -1,0 +1,21 @@
+.wrapper {
+    width: 300px;
+    height: 400px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: darkturquoise;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+    align-items: center;
+}
+
+.poster{
+    width: 100px;
+    height: 200px;
+    object-fit: cover;
+}
+.text{
+    text-decoration: none;
+}
